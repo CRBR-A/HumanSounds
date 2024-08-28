@@ -1,2 +1,2 @@
-# HumanMusic
-Free "public domain" resources : the human music.
+# HumanSounds
+Free public resources : the human sounds.
