@@ -1,0 +1,63 @@
+| ID  | Type         | Sound    | Word     | Spelling  |
+| --- | ------------ | -------- | -------- |---------- |
+| a   | vowel        | short    | bat      | Bat       |
+| ai  | diphthong    |          | time     | Taim      |
+| aiy | diphthong    |          | hire     | Haiy      |
+| ar  | vowel        | long     | star     | Star      |
+| au  | diphthong    |          | cow      | Kau       |
+| auw | diphthong    |          | power    | Pauw      |
+| b   | consonant    | voiced   | bag      | Bag       |
+| ch  | consonant    | unvoiced | cheese   | Cheez     |
+| d   | consonant    | voiced   | dice     | Dais      |
+| e   | vowel        | short    | leg      | Leg       |
+| ee  | vowel        | long     | three    | Ttree     |
+| ei  | diphthong    |          | plane    | Plein     |
+| eir | diphthong    |          | pear     | Peir      |
+| er  | vowel        | long     | shirt    | Shert     |
+| eu  | diphthong    |          | home     | Heum      |
+| f   | consonant    | unvoiced | frog     | Frog      |
+| g   | consonant    | voiced   | glass    | Glars     |
+| h   | consonant    | unvoiced | head     | Hed       |
+| hh  | consonant    | unvoiced | loch     | Lohh      |
+| i   | vowel        | short    | dish     | Dish      |
+| ii  | vowel        | short    | happy    | Ha pii    |
+| iy  | diphthong    |          | here     | Hiy       |
+| j   | consonant    | voiced   | jam      | Jam       |
+| k   | consonant    | unvoiced | kit      | Kit       |
+| l   | consonant    | voiced   | lake     | Leik      |
+| m   | consonant    | voiced   | music    | Myoo zik  |
+| n   | consonant    | voiced   | nurse    | Ners      |
+| ng  | consonant    | voiced   | ring     | Ring      |
+| o   | vowel        | short    | sock     | Sok       |
+| oo  | vowel        | long     | shoot    | Shoot     |
+| or  | vowel        | long     | ball     | Borl      |
+| oy  | diphthong    |          | toy      | Toy       |
+| p   | consonant    | unvoiced | pig      | Pig       |
+| r   | consonant    | voiced   | road     | Reud      |
+| s   | consonant    | unvoiced | snow     | Sneu      |
+| sh  | consonant    | unvoiced | shop     | Shop      |
+| t   | consonant    | unvoiced | taxi     | Ta ksii   |
+| th  | consonant    | voiced   | brother  | Bru th    |
+| tt  | consonant    | unvoiced | thousand | Ttau znd  |
+| u   | vowel        | short    | cup      | Kup       |
+| uh  | vowel        | short    | arrive   | uh Raiv   |
+| uu  | vowel        | short    | pull     | Puul      |
+| uuw | diphthong    |          | pure     | Pyuuw     |
+| v   | consonant    | voiced   | van      | Van       |
+| w   | consonant    | voiced   | week     | Week      |
+| y   | consonant    | voiced   | yoghurt  | Yo gt     |
+| z   | consonant    | voiced   | zip      | Zip       |
+| zz  | consonant    | voiced   | revision | r Vi zzn  |
+| _   | glottal stop |          | football | Fuu_ borl |
+
+---
+current:
+  file: <./phonemes.txt>
+  source: <https://purlandtraining.com>
+  license: >
+    PurlandTraining.com learning material is in the public domain. Anybody can
+    use it for commercial or non-commercial purposes. This means that you can 
+    freely use, copy, print, download, share, and distribute it as you wish.
+    You can even sell PurlandTraining.com learning material without paying us 
+    anything. You don’t even have to tell us, but if you did we could feature 
+    your venture on our website and/or Facebook page.

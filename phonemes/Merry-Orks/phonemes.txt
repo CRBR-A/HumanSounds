@@ -1,0 +1,46 @@
+| ID     | Type      | Spelling |
+| ------ | --------- | -------- |
+| a (1)  | vowel     | car      |
+| a (2)  | vowel     | pat      |
+| ay     | diphthong | day      |
+| b      | consonant | bit      |
+| c      | consonant | cat      |
+| ch     | consonant | chop     |
+| d      | consonant | door     |
+| e      | vowel     | pet      |
+| ea     | diphthong | bear     |
+| ea     | vowel     | meat     |
+| ee     | diphthong | beer     |
+| f      | consonant | fan      |
+| g      | consonant | get      |
+| g      | consonant | get      |
+| h      | consonant | hat      |
+| i (1)  | vowel     | girl     |
+| i (2)  | vowel     | pit      |
+| j      | consonant | jump     |
+| l      | consonant | leg      |
+| m      | consonant | man      |
+| n      | consonant | nice     |
+| ng     | consonant | ring     |
+| o      | diphthong | go       |
+| o (1)  | vowel     | ago      |
+| o (2)  | vowel     | pot      |
+| oo (1) | vowel     | door     |
+| oo (2) | vowel     | good     |
+| oo (3) | vowel     | too      |
+| ou     | diphthong | tour     |
+| ow     | diphthong | cow      |
+| oy     | diphthong | boy      |
+| r      | consonant | rat      |
+| s (1)  | consonant | leisure  |
+| s (2)  | consonant | send     |
+| sh     | consonant | shop     |
+| t      | consonant | time     |
+| th (1) | consonant | that     |
+| th (2) | consonant | think    |
+| u      | vowel     | luck     |
+| v      | consonant | van      |
+| w      | consonant | wet      |
+| y      | diphthong | sky      |
+| y      | consonant | yet      |
+| z      | consonant | zip      |
